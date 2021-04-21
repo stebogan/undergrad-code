@@ -1,3 +1,4 @@
+# Solve Schrodinger's equation in a crystal latice -> verification of Bloch's theorem (1D)
 import random
 import math
 import matplotlib.pyplot as plt
