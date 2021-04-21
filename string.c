@@ -1,3 +1,4 @@
+// Simulate a vibrating string under tension given arbitrary initial conditions
 # include <stdio.h>
 # include <math.h>
 
