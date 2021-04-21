@@ -1,3 +1,4 @@
+// Simulate simple oscillating pendulum (limit of small theta)
 # include <stdio.h>
 #include <math.h>
 
