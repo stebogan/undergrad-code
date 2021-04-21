@@ -1,3 +1,4 @@
+// Simulate binary star system with arbitrary initial conditions
 # include <stdio.h>
 # include <math.h>
 
